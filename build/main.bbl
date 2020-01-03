@@ -37,8 +37,7 @@
       \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Versuch zum Literaturverzeichnis}
-      \field{year}{2014}
+      \field{title}{Versuchsanleitung-Das Trägheitsmoment}
     \endentry
     \entry{matplotlib}{article}{}
       \name{author}{1}{}{%
@@ -75,46 +74,6 @@
       \endverb
       \verb{url}
       \verb http://matplotlib.org/
-      \endverb
-    \endentry
-    \entry{scipy}{software}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{3}{}{%
-        {{hash=4b3d26f886661aa723985bcfd835ba18}{%
-           family={Jones},
-           familyi={J\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
-        {{hash=d500f4849030f34359cdb3e1513acf83}{%
-           family={Oliphant},
-           familyi={O\bibinitperiod},
-           given={Travis\bibnamedelima E.},
-           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=3d6efaaa3d9682e20787eb06ff70a3d7}{%
-           family={Peterson},
-           familyi={P\bibinitperiod},
-           given={Pearu},
-           giveni={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{c2d4b138ebed3e173fcb667b68477029}
-      \strng{fullhash}{c2d4b138ebed3e173fcb667b68477029}
-      \strng{bibnamehash}{c2d4b138ebed3e173fcb667b68477029}
-      \strng{authorbibnamehash}{c2d4b138ebed3e173fcb667b68477029}
-      \strng{authornamehash}{c2d4b138ebed3e173fcb667b68477029}
-      \strng{authorfullhash}{c2d4b138ebed3e173fcb667b68477029}
-      \field{sortinit}{J}
-      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{SciPy}: Open source scientific tools for {Python}}
-      \field{version}{0.16.0}
-      \true{nocite}
-      \verb{urlraw}
-      \verb http://www.scipy.org/
-      \endverb
-      \verb{url}
-      \verb http://www.scipy.org/
       \endverb
     \endentry
     \entry{uncertainties}{software}{}
